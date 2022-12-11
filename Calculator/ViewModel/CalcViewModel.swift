@@ -1,10 +1,3 @@
-//
-//  CalcViewModel.swift
-//  Calculator
-//
-//  Created by Lazar Dejanovic on 5.12.22..
-//
-
 import SwiftUI
 
 
